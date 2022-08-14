@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b99d49aa027f3c041b127b922477e1d2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Digi Gaf Bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 43cede8f835eda541a9d5e4785da6b77, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
